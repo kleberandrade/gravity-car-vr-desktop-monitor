@@ -3,13 +3,13 @@
 Sistema de telemetria do simulador imersivo de carrinho de rolimã.
 
 <p align="left">
-  <img src="https://github.com/kleberandrade/gravity-car-vr/blob/master/Figures/logotipo.PNG" height="100"/>
+  <img src="https://github.com/kleberandrade/gravity-car-vr-desktop-monitor/blob/master/screenshots/logotipo.PNG" height="100"/>
 </p>
 
 ## Interface
 
 <p align="center">
-  <img src="https://github.com/kleberandrade/gravity-car-vr/blob/master/Figures/sistema.jpeg" height="500"/>
+  <img src="https://github.com/kleberandrade/gravity-car-vr-desktop-monitor/blob/master/screenshots/sistema.jpeg" height="500"/>
 </p>
 
 ## Créditos
