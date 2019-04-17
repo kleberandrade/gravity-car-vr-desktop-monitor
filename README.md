@@ -1,4 +1,4 @@
-# Gravity Car VR (Game)
+# Gravity Car VR Desktop Monitor (Telemetria)
 
 Sistema de telemetria do simulador imersivo de carrinho de rolimã.
 
