@@ -1,3 +1,38 @@
+# Gravity Car VR Desktop Monitor
+
+![Language: Java](https://img.shields.io/badge/Language-Java-555555)
+[![Build: Maven](https://img.shields.io/badge/Build-Maven-C71A36)](https://github.com/kleberandrade/gravity-car-vr-desktop-monitor/blob/master/pom.xml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-555555)](https://github.com/kleberandrade/gravity-car-vr-desktop-monitor/blob/master/LICENSE)
+
+Java desktop telemetry application for the Gravity Car VR simulator.
+
+## Getting started
+
+- Import the repository as an existing Maven project. Review its Java version, database configuration and dependencies before building.
+
+- For projects with a database or serial device, configure those dependencies explicitly; this guide does not start external services or equipment.
+
+## Recorded requirements
+
+- A JDK compatible with the compiler settings in [`pom.xml`](https://github.com/kleberandrade/gravity-car-vr-desktop-monitor/blob/master/pom.xml) and Maven.
+
+## Repository map
+
+- [pom.xml](https://github.com/kleberandrade/gravity-car-vr-desktop-monitor/blob/master/pom.xml)
+- [src](https://github.com/kleberandrade/gravity-car-vr-desktop-monitor/tree/master/src)
+
+## Validation status
+
+This update documents the tracked source and project metadata. It does not certify a successful build, device test or compatibility with a current toolchain. Follow any project-specific validation instructions in the original material.
+
+## License and attribution
+
+See [LICENSE](https://github.com/kleberandrade/gravity-car-vr-desktop-monitor/blob/master/LICENSE) and any notices accompanying third-party code and assets. This documentation update does not change licensing or authorship.
+
+---
+
+## Original project material
+
 # Gravity Car VR Desktop Monitor (Telemetria)
 
 Sistema de telemetria do simulador imersivo de carrinho de rolimã.
@@ -38,4 +73,3 @@ Sistema de telemetria do simulador imersivo de carrinho de rolimã.
     LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
     OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
     SOFTWARE.
-
